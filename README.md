@@ -1,4 +1,4 @@
-# koa-swagger-decorator
+# koa-swagger-decorator-plus
 
 > using decorator to auto generate swagger json docs
 
@@ -8,7 +8,7 @@
 ## Installation
 
 ```bash
-npm install koa-swagger-decorator
+npm install koa-swagger-decorator-plus
 ```
 
 ## Introduction
